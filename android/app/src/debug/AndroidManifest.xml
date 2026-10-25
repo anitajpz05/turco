@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Necesario para que las herramientas de Flutter se comuniquen con la app en desarrollo. -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
