@@ -2,7 +2,7 @@
 
 Primer Examen Parcial · Programación para Dispositivos Móviles · Ingeniería Informática, 3er año
 
-**Estudiante:** Ana Maria Pérez Jimenez
+**Estudiante:** Ana Maria Jimenez Pérez
 **Application id:** `com.anamariaperez.turco`
 **Nombre visible:** Turco
 
